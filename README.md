@@ -1,5 +1,5 @@
 # naitingFM
-音乐播放器
+播放器界面
 <co.mobiwise.library.MusicPlayerView
         android:id="@+id/mpv"
         android:layout_width="250dp"
